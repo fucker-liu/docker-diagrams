@@ -5,8 +5,9 @@
 
 ## Why? 
 
-docker allows you to have a clean environment. you may do not need install all Dependency
+* docker allows you to have a clean environment. you may do not need install all Dependency
 
+* diatrams is something like software, it may make thing easy :)
 
 
 
