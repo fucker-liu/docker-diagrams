@@ -28,6 +28,14 @@ or you can pull from dockerHub
 
 
 - step 3:
-```
+
+if you pull default docker image, just make than will gen your pictures
+```bash
     make
+```
+
+or you need do this
+
+```bash
+    make image_name=(your image)
 ```
