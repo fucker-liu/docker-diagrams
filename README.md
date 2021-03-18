@@ -29,3 +29,13 @@ if you pull default docker image, just make than will gen your pictures
 ```bash
     make
 ```
+***
+
+if you want to build your own image
+```
+    docker build -t your-own-image .
+```
+than add arguments for makefile
+```
+    make your-own-image
+```
