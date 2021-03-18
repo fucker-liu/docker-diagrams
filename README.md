@@ -25,7 +25,7 @@ you can pull from dockerHub
 
 - step 3: make
 
-if you pull default docker image, just make than will gen your pictures
+if you pull default docker image, just run make, than will gen your pictures in pwd
 ```bash
     make
 ```
