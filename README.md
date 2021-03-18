@@ -13,13 +13,9 @@
 
 ## Usage
 
-- step 1: build image for diagrams
+- step 1: build/install image for diagrams
 
-you can build image from Dockerfile
-```bash
-    docker build -t image-name-for-you ./
-```
-or you can pull from dockerHub
+you can pull from dockerHub
 ```bash
     docker pull liutianhao/diagrams
 ```
@@ -32,10 +28,4 @@ or you can pull from dockerHub
 if you pull default docker image, just make than will gen your pictures
 ```bash
     make
-```
-
-or you need do this
-
-```bash
-    make image_name=(your image)
 ```
