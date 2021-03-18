@@ -7,7 +7,7 @@
 
 * docker allows you to have a clean environment. you may do not need install all Dependency
 
-* diatrams is something like software, it may make thing easy :)
+* diatrams is something like software, it may make thing easy with docker :)
 
 
 
@@ -27,7 +27,7 @@ or you can pull from dockerHub
 - step 2: write you own python script like [Diagrams example](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
 
-- step 3:
+- step 3: make
 
 if you pull default docker image, just make than will gen your pictures
 ```bash
